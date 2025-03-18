@@ -1,4 +1,4 @@
-# Final Project for Data.talks Data Engineering Zoomcamp
+# Final Project for DataTalks.club Data Engineering Zoomcamp
 
 ## Introduction
 
@@ -16,8 +16,11 @@ They also offer the possibility of chosing between batch and stream. For this pr
 ## Chosen tools for the project
 
 Cloud: **Google Cloud**
+
 Infrastructure as Code (IaC): **Terraform**
+
 Workflow Orchestration: **Kestra**
+
 Batch Processing: **PySpark** or **DBT** (to be defined)
 
 ## Chosen Dataset
