@@ -15,7 +15,9 @@ They also offer the possibility of chosing between batch and stream. For this pr
 
 ## Chosen tools for the project
 
-Cloud: **Google Cloud**
+Cloud Storage: **Google Cloud**
+
+Data Warehouse: **Google BigQuery**
 
 Infrastructure as Code (IaC): **Terraform**
 
@@ -23,9 +25,11 @@ Workflow Orchestration: **Kestra**
 
 Batch Processing: **PySpark** or **DBT** (to be defined)
 
+### Ideally, a CI/CD tool will be used, as well as versioning and testing.
+
 ## Chosen Dataset
 
-The dataset is still to be defined.
+
 
 
 
