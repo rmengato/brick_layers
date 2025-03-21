@@ -25,9 +25,21 @@ Workflow Orchestration: **Kestra**
 
 Batch Processing: **PySpark** or **DBT** (to be defined)
 
-### Ideally, a CI/CD tool will be used, as well as versioning and testing.
+**Ideally, a CI/CD tool will be used, as well as versioning and testing.**
 
 ## Chosen Dataset
+
+**to be defined**
+
+## System Design
+
+###Overview of the propposed Pipeline
+
+
+
+
+
+
 
 
 
