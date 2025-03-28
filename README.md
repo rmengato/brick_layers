@@ -1,4 +1,4 @@
-# BrickStrokes - A Brick Art Gallery database
+# BrickLayers - A Brick Art Gallery database
 ### Final Project for the 2025 DataTalks.club Data Engineering Zoomcamp
 
 ## Introduction
