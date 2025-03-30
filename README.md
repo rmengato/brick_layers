@@ -3,7 +3,7 @@
 
 ## Introduction
 
-The project contained in this Github Repo aims to generate a database with data on famous art pieces and the toy brick pieces (such as lego, for instance) necessary to build renditions of these famous paintings.
+The project contained in this Github Repo aims to generate a database with data on famous art pieces and the toy brick pieces (such as Lego, for instance) necessary to build renditions of these famous paintings.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6b190051-292d-4d28-a58e-06b7d79fea2b" width="300" />
@@ -11,9 +11,8 @@ The project contained in this Github Repo aims to generate a database with data 
 </div>
 
 ### Main motivations, not ranked
-Section for some yadda-yadda (I am very interested in the project, so I can't help myself).
 
-For the technical component of the project, jump to section
+For the technical component of the project, jump to section [The Project](https://github.com/)
 
 ### DataTalks.Club Zoomcamp
 This is my iteration of the final project propposed by the organizers of the Data Engineering Zoomcamp.
@@ -21,10 +20,14 @@ For those who eventually stumble upon this repository and are not aware, the Dat
 
 ### Usefulness
 
-After thinking for maybe too long on the topic of the final project, the idea of being able to represent 
+I wanted to deliever the project, but also make something interesting, but also that could make a positive impact at the same time. So here are some possible uses I can foresee for this database:
+
+- Generating renditions of famous paintings, not only for Lego hobbyists
+- For educators, to spark interest in art in others
+- For interesting decoration. Fancy a copy of the "*Creation of Adam*" detail of the Sistine Chapel on your ceiling? Not in here (at least not this version yet, as I will use de Metropolitan Museum of New York API)
 
 ### Personal motivations
-Firstly, a deep interest for the ways different areas of knowledge can intersect. Secondly, a newly found interest on how to convey information in different ways.
+Firstly, a deep interest for the ways different areas of knowledge can intersect. Secondly, a newly found interest on how to convey useful information from the internet in different, preferably analogical, ways.
 
 ## The Project 
 
@@ -57,6 +60,20 @@ The chosen Dataset will be obtained from de Metropolitan Museum of
 ## System Design
 
 ###Overview of the propposed Pipeline
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
