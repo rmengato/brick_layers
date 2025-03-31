@@ -1,6 +1,8 @@
 # BrickLayers - A Brick Art Gallery database
 ### My Final Project for the 2025 DataTalks.club Data Engineering Zoomcamp
 
+For the informations relating to the zoomcamp final project guidelines applied to this specific project, you can go directly to sections (add sections)
+
 ## Introduction
 
 The project contained in this Github Repo aims to generate a database with data on famous art pieces and the toy brick pieces (such as Lego, for instance) necessary to build renditions of these famous paintings.
@@ -10,7 +12,7 @@ The project contained in this Github Repo aims to generate a database with data 
   <p><em>Figure 1: A version of 64x64 pieces of Meisje met de parel (Girl with a Pearl Earring), to be built with Lego pieces.</em></p>
 </div>
 
-### Main motivations, not ranked
+### Main motivations
 
 For the technical component of the project, jump to section [The Project](https://github.com/)
 
@@ -22,12 +24,12 @@ For those who eventually stumble upon this repository and are not aware, the Dat
 
 I wanted to deliever the project, but also make something interesting, and on top of that, to make a positive impact at the same time. So here are some possible uses I can foresee for this database:
 
-- For **anyone** fascinated in either art or Lego
+- For **anyone** fascinated by art or Lego
 - For **parents and educators** who wish to spark interest in art. Interesting for many age ranges (I assume*), for multiple reasons. Whether helping develop motor skills and better eye for telling nuances in colors, or for studies of art and history, or simply cultivating creativity for older kids. 
 - For Lego **hobbyists**, if renditions of artworks could enrich their ideas. Even though paintings in smaller scale may lose important details, interesting playsets can be made. Imagine a Lego set rendition of famous museum rooms, such as the Mona Lisa room at the Louvre, or even a miniature Sistine Chapel*. Scales between paintings and the playset scene may need to be distorted, but imagination can perform the heavy lifting.
 - For **those interested in decoration**, with added flexibility of Lego. Imagine having an interesting rendition of "Starry Night" on your wall or even the "*Creation of Adam*", scene from the Sistine Chapel ceiling, except now on your own ceiling, with the possibility of determining the size (and price) of said renditions.
 
-*Please be wary that I am not a professional in this area. See Lego age restrictions.  
+*Please be wary that I am not a professional in this area. Be sure to check Lego age restrictions.  
 **Neither renditions or data on Louvre paintings nor on Sistine Chapel frescoes will, at the current moment, be present in this version of the dataset.
 
 ## The Project
