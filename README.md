@@ -7,7 +7,7 @@ The project contained in this Github Repo aims to generate a database with data 
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6b190051-292d-4d28-a58e-06b7d79fea2b" width="300" />
-  <p><em>Figure 1: A version of 64x64 pieces of Meisje met de parel (Girl with a Pearl Earring).</em></p>
+  <p><em>Figure 1: A version of 64x64 pieces of Meisje met de parel (Girl with a Pearl Earring), to be built with Lego pieces.</em></p>
 </div>
 
 ### Main motivations, not ranked
@@ -18,18 +18,21 @@ For the technical component of the project, jump to section [The Project](https:
 This is my iteration of the final project propposed by the organizers of the Data Engineering Zoomcamp.
 For those who eventually stumble upon this repository and are not aware, the Data Talks Club Engineering Zoomcamp is a nine week free bootcamp. More info on Data Talks Club on their [website](https://datatalks.club/). They have top notch teachers and courses, on different areas of data. I highly recommend checking their work and have learned a lot troughout the course.
 
-### Usefulness
+### Foreseeable use cases
 
-I wanted to deliever the project, but also make something interesting, but also that could make a positive impact at the same time. So here are some possible uses I can foresee for this database:
+I wanted to deliever the project, but also make something interesting, and on top of that, to make a positive impact at the same time. So here are some possible uses I can foresee for this database:
 
-- Generating renditions of famous paintings, not only for Lego hobbyists
-- For educators, to spark interest in art in others
-- For interesting decoration. Fancy a copy of the "*Creation of Adam*" detail of the Sistine Chapel on your ceiling? Not in here (at least not this version yet, as I will use de Metropolitan Museum of New York API)
+- For **anyone** fascinated in either art or Lego
+- For **parents and educators** who wish to spark interest in art. Interesting for many age ranges (I assume*), for multiple reasons. Whether helping develop motor skills and better eye for telling nuances in colors, or for studies of art and history, or simply cultivating creativity for older kids. 
+- For Lego **hobbyists**, if renditions of artworks could enrich their ideas. Even though paintings in smaller scale may lose important details, interesting playsets can be made. Imagine a Lego set rendition of famous museum rooms, such as the Mona Lisa room at the Louvre, or even a miniature Sistine Chapel*. Scales between paintings and the playset scene may need to be distorted, but imagination can perform the heavy lifting.
+- For **those interested in decoration**, with added flexibility of Lego. Imagine having an interesting rendition of "Starry Night" on your wall or even the "*Creation of Adam*", scene from the Sistine Chapel ceiling, except now on your own ceiling, with the possibility of determining the size (and price) of said renditions.
 
-### Personal motivations
-Firstly, a deep interest for the ways different areas of knowledge can intersect. Secondly, a newly found interest on how to convey useful information from the internet in different, preferably analogical, ways.
+*Please be wary that I am not a professional in this area. See Lego age restrictions.  
+**Neither renditions or data on Louvre paintings nor on Sistine Chapel frescoes will, at the current moment, be present in this version of the dataset.
 
-## The Project 
+## The Project
+
+Description of the project in more technical terms.
 
 ### Guidelines and goals
 
