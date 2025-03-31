@@ -27,10 +27,10 @@ I wanted to deliever the project, but also make something interesting, and on to
 - For **anyone** fascinated by art or Lego
 - For **parents and educators** who wish to spark interest in art. Interesting for many age ranges (I assume*), for multiple reasons. Whether helping develop motor skills and better eye for telling nuances in colors, or for studies of art and history, or simply cultivating creativity for older kids. 
 - For Lego **hobbyists**, if renditions of artworks could enrich their ideas. Even though paintings in smaller scale may lose important details, interesting playsets can be made. Imagine a Lego set rendition of famous museum rooms, such as the Mona Lisa room at the Louvre, or even a miniature Sistine Chapel*. Scales between paintings and the playset scene may need to be distorted, but imagination can perform the heavy lifting.
-- For **those interested in decoration**, with added flexibility of Lego. Imagine having an interesting rendition of "Starry Night" on your wall or even the "*Creation of Adam*", scene from the Sistine Chapel ceiling, except now on your own ceiling, with the possibility of determining the size (and price) of said renditions.
+- For **those interested in decoration, professional or not**, with added flexibility of Lego. Imagine having an interesting rendition of "Starry Night" on your wall or even the "*Creation of Adam*", the famous scene from the Sistine Chapel ceiling, now on your own ceiling. Lego as a rendering technique offers the possibility of determining the size (and price) of painting renditions. If a more nuanced color analysis is needed, data will be able to provide the predominant colors of each (Lego) painting.
 
-*Please be wary that I am not a professional in this area. Be sure to check Lego age restrictions.  
-**Neither renditions or data on Louvre paintings nor on Sistine Chapel frescoes will, at the current moment, be present in this version of the dataset.
+*Please be wary that I am not a professional in this area. Be sure to check Lego age restrictions too.  
+**Neither data on Louvre paintings nor on Sistine Chapel frescoes will, at the current moment, be present in this version of the dataset. 
 
 ## The Project
 
@@ -42,7 +42,7 @@ The project guidelines are described on the course's [github](https://github.com
 
 ### Pipeline Type
 
-They also offer the possibility of chosing between batch and stream. For this project, **batch** pipelines will be created.
+For this project, **batch** pipelines will be created.
 
 ### Chosen tools for the project
 
@@ -58,13 +58,18 @@ Batch Processing: **PySpark** or **DBT** (to be defined)
 
 **Ideally, a CI/CD tool will be used, as well as versioning and testing.**
 
-### Chosen Dataset
+### Chosen Datasets
 
-The chosen Dataset will be obtained from de Metropolitan Museum of 
+The chosen Dataset will be obtained from the [Metropolitan Museum of Art API](https://metmuseum.github.io/).
+
+Data on available colors of Lego pieces will be used. For this, the csv files available on [Rebrickable](https://rebrickable.com/downloads/) will be used.
+
+(MAYBE) data available in wikipedia will be generated to create QR codes, to be built in Lego, to direct people either to the wikipedia page, or the MET page about the painting.
 
 ## System Design
 
-###Overview of the propposed Pipeline
+
+
 
 
 
