@@ -1,7 +1,5 @@
 # BrickLayers - A Brick Art Gallery database
-### My Final Project for the 2025 DataTalks.club Data Engineering Zoomcamp
 
-For the informations relating to the zoomcamp final project guidelines applied to this specific project, you can go directly to sections (add sections)
 
 ## Introduction
 
